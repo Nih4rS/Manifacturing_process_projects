@@ -16,3 +16,4 @@ Kaggle link for Data: https://www.kaggle.com/datasets/vladys/manufacturing-proce
 
 5.** QualityCheck: A random boolean value (True or False), simulating a pass/fail quality check. 6.* *ProductCount: A random integer value, simulating the count of products, based on a Poisson distribution with a lambda of 20.
 
+## Objectives 
